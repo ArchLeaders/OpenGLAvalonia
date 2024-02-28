@@ -10,5 +10,11 @@
         d:DesignWidth="800"
         x:DataType="vm:ShellViewModel"
         mc:Ignorable="d">
-    
+    <Viewbox Stretch="Uniform">
+        <controls:OpenGlCanvas Width="1080"
+                               Height="1080"
+                               IndexBuffer="{Binding IndexBuffer}"
+                               TextureStream="{Binding Texture}"
+                               VertexBuffer="{Binding VertexBuffer}" />
+    </Viewbox>
 </Window>
