@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenGLAvalonia", "OpenGLAvalonia\OpenGLAvalonia.csproj", "{B8314880-3057-4E4A-93AC-6DAFD188F9CF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenGLAvalonia.Core", "OpenGLAvalonia.Core\OpenGLAvalonia.Core.csproj", "{78CFC5AB-1770-403A-B3E9-93CE421786D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8314880-3057-4E4A-93AC-6DAFD188F9CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8314880-3057-4E4A-93AC-6DAFD188F9CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8314880-3057-4E4A-93AC-6DAFD188F9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8314880-3057-4E4A-93AC-6DAFD188F9CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78CFC5AB-1770-403A-B3E9-93CE421786D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78CFC5AB-1770-403A-B3E9-93CE421786D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78CFC5AB-1770-403A-B3E9-93CE421786D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78CFC5AB-1770-403A-B3E9-93CE421786D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EB9A708-A0A1-4702-9AC6-F8C5DD3A55CD}
+	EndGlobalSection
+EndGlobal
